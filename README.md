@@ -28,7 +28,6 @@ This portfolio showcases my skills in front-end development, particularly in usi
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Getting Started
 
@@ -36,21 +35,10 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Make sure you have Node.js and npm installed on your machine. You can download them from [Node.js](https://nodejs.org/).
+You just need a web browser to view the portfolio.
 
-2. Install the dependencies:
-```bash
-npm install
-```
-## Running
+### Installation
 
-To run the app locally, use the following command:
-
-```bash
-npm start
-```
-
-This will start the development server, and you can view the application by navigating to http://localhost:3000 in your browser.
 
 ## Contact
 
