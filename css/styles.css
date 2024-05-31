@@ -1,0 +1,127 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #7d91ae;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #5a6782;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    font-weight: 400;
+  }
+  
+  header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  header nav ul li {
+    margin: 0 10px;
+  }
+  
+  header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+  header nav ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .intro-section {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .intro-section h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .intro-section p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .projects-section {
+    padding: 2rem;
+  }
+  
+  .projects-section h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .project-card {
+    background-color: #fff;
+    color: #333;
+    border-radius: 10px;
+    margin: 1rem;
+    padding: 1rem;
+    width: 90%; 
+    max-width: 600px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .project-card img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  .project-card h3 {
+    font-family: 'Merriweather', serif;
+    font-size: 1.5rem;
+    margin: 1rem 0;
+  }
+  
+  .project-card p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1rem;
+    line-height: 1.4;
+  }
+  
+  .project-card a {
+    color: #7d91ae; 
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .project-card a:hover {
+    color: #5a6782; 
+    text-decoration: underline;
+  }
+  
+  footer {
+    background-color: #5a6782;
+    text-align: center;
+    padding: 1rem;
+    position: relative; 
+    width: 100%;
+    bottom: 0;
+    margin-top: 2rem; 
+  }
