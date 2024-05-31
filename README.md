@@ -1,5 +1,6 @@
 # Maria Jaroszewska's Portfolio
 
+![my portfolio](https://github.com/mariajaro/marjar/assets/114582344/3b300fbc-1aed-416f-883b-0a249ed4c3d3)
 
 Welcome to my portfolio! I'm Maria, a passionate front-end developer who loves creating beautiful and functional user interfaces. Here, you can explore some of the projects I've worked on during my studies at Noroff School of Technology and Digital Media.
 
@@ -31,13 +32,17 @@ This portfolio showcases my skills in front-end development, particularly in usi
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+### Installing
 
-### Prerequisites
+To get the project started, follow these steps:
 
-You just need a web browser to view the portfolio.
+1. Clone the repo:
+```bash
+   git clone [ttps://github.com/mariajaro/sp2.git](https://github.com/mariajaro/marjar.git)
+```
 
-### Installation
+### Running
+To run the app, simply open the index.html file in your web browser. 
 
 
 ## Contact
